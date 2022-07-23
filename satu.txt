@@ -1,4 +1,4 @@
 pelajaran GIT
 
 tambah
-kurang
+
